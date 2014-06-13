@@ -1,0 +1,1 @@
+javaw com.chris.RealmChanger.Main servers.txt

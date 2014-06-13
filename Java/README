@@ -1,0 +1,11 @@
+Servers file follow a pattern to import server list. Server delimiter is "\n" - new line character.
+This means each setting is sits on new line. Each server have basic configuration of 3 lines.
+End of the file MUST NOT end with empty line!
+
+Program takes input from servers.txt file as argument when loading.
+Feel free to re-route file as stream to this program.
+
+To run the program from the package it must have the folder structure
+com/chris/RealmChanger/...classes...
+servers.txt file should be placed along classes to work.
+Batch file should be placed in same directory as "com"'s directory.
