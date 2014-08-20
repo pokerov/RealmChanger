@@ -1,1 +1,1 @@
-javaw com.chris.RealmChanger.Main servers.txt
+javaw com/chris/RealmChanger/Main servers.txt
