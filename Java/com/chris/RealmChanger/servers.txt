@@ -1,6 +1,0 @@
-Monster WoW Cataclysm 4.3.4
-SET realmlist logon.monster-wow.com
-SET patchlist logon.molten-wow.com
-Molten WoW Cataclysm 4.3.4
-SET realmlist logon.molten-wow.com
-SET patchlist logon.molten-wow.com
